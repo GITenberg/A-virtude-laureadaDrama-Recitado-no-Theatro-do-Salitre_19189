@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8542
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19189#A-virtude-laureadaDrama-Recitado-no-Theatro-do-Salitre
 gutenberg_bookshelf:
 - PT Teatro
 - PT Poesia
