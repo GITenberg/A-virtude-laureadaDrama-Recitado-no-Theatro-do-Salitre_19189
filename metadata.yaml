@@ -1,0 +1,32 @@
+_repo: A-virtude-laureadaDrama-Recitado-no-Theatro-do-Salitre_19189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+description: ''
+gutenberg_bookshelf:
+- PT Teatro
+- PT Poesia
+gutenberg_issued: '2006-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19189'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese drama'
+- !lcc 'PQ'
+title: 'A virtude laureada
+
+  Drama Recitado no Theatro do Salitre'
+url: http://www.gutenberg.org/ebooks/19189
